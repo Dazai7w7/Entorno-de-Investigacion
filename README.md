@@ -8,3 +8,5 @@ Proyecto Taller Integración ll
    - [x] step
    - [x] fran
    - [x] Andrew
+
+@Dazai7w7 what do you think about?   
