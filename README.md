@@ -9,4 +9,4 @@ Proyecto Taller Integración ll
    - [x] fran
    - [x] Andrew
 
-@Dazai7w7 what do you think about?   
+@Dazai7w7/support what do you think about?   
